@@ -1,2 +1,2 @@
-# equipe_issues
+# equipe-issues
 Equipe Issuses
